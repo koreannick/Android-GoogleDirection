@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\korea\\Desktop\\Android-GoogleDirection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\korea\\Desktop\\Android-GoogleDirection\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\korea\\Desktop\\Android-GoogleDirectionLibrary\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\korea\\Desktop\\Android-GoogleDirectionLibrary\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\korea\Desktop\Android-GoogleDirection\googleDirectionLibrary\src\main\assets"/><source path="C:\Users\korea\Desktop\Android-GoogleDirection\googleDirectionLibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\korea\Desktop\Android-GoogleDirection\googleDirectionLibrary\src\release\assets"/></dataSet></merger>
